@@ -1,6 +1,11 @@
+
+<img width="704" height="699" alt="spaceman" src="https://github.com/user-attachments/assets/c13201c5-3c75-4400-a99e-61fa208b3aa5" />
+
+
 Spaceman Word Guessing Game
 
-Description
+Description 
+
 
 Spaceman is a space themed version of Hangman. Players try to guess a space themed word by selecting letters. You have 6 wrong guesses before you lose.
 
@@ -32,4 +37,5 @@ Future upgrades I'd like to code:
 
 Add sound effects for correct/wrong guesses
 Include difficulty levels (easy/medium/hard)
+
 Add animated spaceman visual like adding body parts in hangman
